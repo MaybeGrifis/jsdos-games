@@ -1,7 +1,9 @@
-{
-  "title": "Skyroads (Test)",
-  "description": "Test .jsdos file for compatibility. This game simulates a launchable DOS environment with a fake executable.",
-  "tags": ["test", "dos", "skyroads"],
-  "file": "https://maybegrifis.github.io/jsdos-games/skyroads.jsdos",
-  "cover": "https://upload.wikimedia.org/wikipedia/en/8/8b/SkyRoads_title.png"
-}
+[
+  {
+    "title": "Skyroads",
+    "description": "A DOS test game",
+    "tags": ["dos", "test"],
+    "file": "https://maybegrifis.github.io/jsdos-games/skyroads.jsdos",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/8/8b/SkyRoads_title.png"
+  }
+]
